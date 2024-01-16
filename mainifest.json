@@ -1,0 +1,11 @@
+{
+  "version": "0.1.2",
+  "notes": "Fix workspace initialization.",
+  "pub_date": "2024-01-16T01:07:49.779Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZzdjbTUraVFnbnhJWDF1Q21CM2hEc3M2YnRhT001ZG1tUlFpUVpFZk9MOVMzWWlXVGNWV3NrWlBsRFEwVmkyWXpmRlU2V2JLMnFXWFB0Ti9LUzdFWk5melBkZnptM0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA1MzY2OTQ1CWZpbGU6QUxULmFwcC50YXIuZ3oKbmViUVQzbFdLcTNjNCtkaUhKblpPWGs1aWRDTW9qUzJnLzhETTJCdEJhR3VXQUNnRDFwbE1TT00vSy9salYwUm00VkRYSVBONHFpWUl1NEhDWjJ2RFE9PQo=",
+      "url": "https://github.com/notanaccent/alt-release/releases/download/v0.1.2/ALT_aarch64.app.tar.gz"
+    }
+  }
+}
