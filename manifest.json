@@ -1,11 +1,15 @@
 {
-  "version": "0.1.2",
-  "notes": "Fix workspace initialization.",
-  "pub_date": "2024-01-16T01:07:49.779Z",
+  "version": "0.1.5",
+  "notes": "Fixed bugs and added tag icons to workspace. Added detection.",
+  "pub_date": "2024-01-17T23:28:42.021Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZzdjbTUraVFnbnhJWDF1Q21CM2hEc3M2YnRhT001ZG1tUlFpUVpFZk9MOVMzWWlXVGNWV3NrWlBsRFEwVmkyWXpmRlU2V2JLMnFXWFB0Ti9LUzdFWk5melBkZnptM0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA1MzY2OTQ1CWZpbGU6QUxULmFwcC50YXIuZ3oKbmViUVQzbFdLcTNjNCtkaUhKblpPWGs1aWRDTW9qUzJnLzhETTJCdEJhR3VXQUNnRDFwbE1TT00vSy9salYwUm00VkRYSVBONHFpWUl1NEhDWjJ2RFE9PQo=",
-      "url": "https://github.com/notanaccent/alt-release/releases/download/v0.1.2/ALT_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZzdjbTUraVFnbi80WktoOFFPT1BSUGw2c1Jic0VjNmVCU2xnWm5sQXZoZ2FjSGFEZ0g4aEMyNmtwcGtMUUR0ZkRnNFNwUGxFS2VsbTRrc3ovcmh3MjZvWWlsTnhuS1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA1NTM0MTE1CWZpbGU6QUxULmFwcC50YXIuZ3oKSGppeVYwOWkrOGx2S0F6enBkRlVBNTBRQ1dqNGFLMnVKajNVSXZkSUZHRUJrOVJGTExZSDBuaGZQbGcvM3dZRERPVTFqUUNjUFFwelZON0Z0cFQ3Q3c9PQo=",
+      "url": "https://github.com/notanaccent/alt-release/releases/download/v0.1.5/ALT_aarch64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZzdjbTUraVFnbjdwaXFKbkhBdjlCUm01WkFQYzZHZGlaOUNtcDZ0NnhINHdDMGxVZnEvNmJWUzZyN3JoY1pVVWNNU1picVVJVmNDZ2tkeHNweGduUzNLRnB4eWVSb2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA1NTM0OTY2CWZpbGU6QUxUXzAuMS41X3g2NF9lbi1VUy5tc2kuemlwCndpeTU4SFhOaWtpUVdvSGU1TE9mcVN4TytiYjcwdms2OHFJV3BQenJwRkg3cmpQWTRVbXdPQUcrNnk0MTN5Y0Vtc0pMQ0M5R2xqSnpvRFc1ZjdXYkJBPT0K",
+      "url": "https://github.com/notanaccent/alt-release/releases/download/v0.1.5/ALT_0.1.5_x64_en-US.msi.zip"
     }
   }
 }
