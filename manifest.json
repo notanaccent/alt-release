@@ -1,15 +1,15 @@
 {
-  "version": "0.2.2",
-  "notes": "Workspace bug fix, brightness & contrast controls, inactive classes with custom colours, and a menu bar.",
-  "pub_date": "2024-01-21T08:02:09.102Z",
+  "version": "0.2.3",
+  "notes": "Fix line tool. Fix image ratio. Add colour palette.",
+  "pub_date": "2024-02-15T22:51:22.245Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZzdjbTUraVFnbndiWU91R2k4bS9Fbm5CMGVIT3BjY2g5VWY3WHBUelVEZFd0N01CTWtVSXlyWC9sVXJKUUhBOG50OXp3NitPRkNoTUlXdXUwbVQ1U3RQa2Q1TnlFeXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA1ODIzMzA5CWZpbGU6QUxULmFwcC50YXIuZ3oKYnVpYzlOYlRnemtPQmluTXN2UEc2Z3Mvd0FxOWVhcG9VTThJN3JkRFF4cWl5cnAzR2NRaEppcnI0NFhJczlNZTI3bHNQMzBZbWRUSTBzOEVrN2xHQkE9PQo=",
-      "url": "https://github.com/notanaccent/alt-release/releases/download/v0.2.2/ALT_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZzdjbTUraVFnbjlXOE51MTBndGZRQnFVWjVjUUdvNlJaT0h5bjBqd1Y0TmRTMU5OdFArMWJkTWE5UFRKWnQ4Y1RpTFBqSmRoMitCTUtVZ0hGNjZtWTM5eVAyQlhyK0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA4MDM2ODMzCWZpbGU6QUxULmFwcC50YXIuZ3oKS3VlSnhvK1ZjYklkb0JUcThYaFpYK2Z6dmcrUmlzTUxzZFN5V0laaEppT2xxNzU5bC8zM0pGTFBMb3RDNWZSdVM2dk43REVodmtwNGtOSFo2akx2QUE9PQo=",
+      "url": "https://github.com/notanaccent/alt-release/releases/download/v0.2.3/ALT_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZzdjbTUraVFnbjZmRGlRaXNxY3N3MnJrbjdIMzJlQTZGb0FDR093WUVqS1YzWklJTGJyN25ZcUw1d3JtVk5IUWtySHdUN28xUnFocnZ3Mng0M0VNVkJuTUZLSHkwSEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA1ODI0MTE5CWZpbGU6QUxUXzAuMi4yX3g2NF9lbi1VUy5tc2kuemlwCjR3RWY1bUV4SjRCYk5jdm5ib29PMWFKbytoU2haNENpMFZZclFxMjdFanhPTXpGUmF3R0JTZ1ppRGxkZmRWbzFzUTYyS2FnWTA5R2F3NkVkQWs5VUJRPT0K",
-      "url": "https://github.com/notanaccent/alt-release/releases/download/v0.2.2/ALT_0.2.2_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZzdjbTUraVFnbjUrbnppSHpqaHEyYmZYZjBERmNNYkhNTUxTdzd4QVBDVUhGLzZJUzJuWXI5YmRSdk1FcUV1eC9Ub092T3FabngvUms5ZWM2MXFiU05GckhaYzRBc1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA4MDM3NDY5CWZpbGU6QUxUXzAuMi4zX3g2NF9lbi1VUy5tc2kuemlwCnQrRmRncy9uakx1eUtDNkpQcnV2RmlLWnZGRjRLOGs2VDJrZVRNOGVxMzlBMkFqa3VzazRCVi83N08wWUxRaG1ScnBZL0daOWJKM1ZFcTNHVkFDS0FRPT0K",
+      "url": "https://github.com/notanaccent/altt-release/releases/download/v0.2.3/ALT_0.2.3_x64_en-US.msi.zip"
     }
   }
 }
